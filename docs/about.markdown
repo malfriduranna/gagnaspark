@@ -11,3 +11,4 @@ Komið þið sæl!
 Vettvangurinn verður drifinn áfram af áhuga á gögnum, tölfræði og knattspyrnu. 
 Þau sem telja sitt áhugasvið skarast á við einn eða fleiri af þessum þáttum munu hafa gaman af því að fylgjast með.
 
+Umsjón: Málfríður Anna Eiríksdóttir
