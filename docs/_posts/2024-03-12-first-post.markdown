@@ -14,3 +14,27 @@ Munurinn á hæsta og lægsta gildi er 167 mörk.
 Flest mörk voru skoruð árið 2009 en þá voru þrír leikmenn með 20 mörk eða meira.
 
 Spáið í þessu!![Alt text](/images/IMG_1464.JPG "Optional title")
+
+# Heildarfjöldi marka á Íslandsmóti kvenna 2008 - 2023
+
+| Ár  | Mörk |
+|-----|------|
+| 2008| 371  |
+| 2009| 408  |
+| 2010| 351  |
+| 2011| 323  |
+| 2012| 372  |
+| 2013| 345  |
+| 2014| 318  |
+| 2015| 325  |
+| 2016| 263  |
+| 2017| 284  |
+| 2018| 291  |
+| 2019| 310  |
+| 2020*| 278  |
+| 2021| 301  |
+| 2022| 308  |
+| 2023| 241  |
+
+
+
