@@ -28,8 +28,7 @@ twitter_username: jekyllrb
 github_username:  malfriduranna
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
