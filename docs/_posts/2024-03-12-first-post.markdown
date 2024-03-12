@@ -23,70 +23,71 @@ Spáið í þessu!![Alt text](/images/IMG_1464.JPG "Optional title")
     <th>Mörk</th>
   </tr>
   <tr>
-    <td>2008</td>
-    <td>371</td>
-  </tr>
-  <tr>
-    <td>2009</td>
-    <td>408</td>
-  </tr>
-  <tr>
-    <td>2010</td>
-    <td>351</td>
-  </tr>
-  <tr>
-    <td>2011</td>
-    <td>323</td>
-  </tr>
-  <tr>
-    <td>2012</td>
-    <td>372</td>
-  </tr>
-  <tr>
-    <td>2013</td>
-    <td>345</td>
-  </tr>
-  <tr>
-    <td>2014</td>
-    <td>318</td>
-  </tr>
-  <tr>
-    <td>2015</td>
-    <td>325</td>
-  </tr>
-  <tr>
-    <td>2016</td>
-    <td>263</td>
-  </tr>
-  <tr>
-    <td>2017</td>
-    <td>284</td>
-  </tr>
-  <tr>
-    <td>2018</td>
-    <td>291</td>
-  </tr>
-  <tr>
-    <td>2019</td>
-    <td>310</td>
-  </tr>
-  <tr>
-    <td>2020*</td>
-    <td>278</td>
-  </tr>
-  <tr>
-    <td>2021</td>
-    <td>301</td>
+    <td>2023</td>
+    <td>241</td>
   </tr>
   <tr>
     <td>2022</td>
     <td>308</td>
   </tr>
   <tr>
-    <td>2023</td>
-    <td>241</td>
+    <td>2021</td>
+    <td>301</td>
+  </tr>
+  <tr>
+    <td>2020*</td>
+    <td>278</td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>310</td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>291</td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>284</td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>263</td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>325</td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>318</td>
+  </tr>
+  <tr>
+    <td>2013</td>
+    <td>345</td>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>372</td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>323</td>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>351</td>
+  </tr>
+  <tr>
+    <td>2009</td>
+    <td>408</td>
+  </tr>
+  <tr>
+    <td>2008</td>
+    <td>371</td>
   </tr>
 </table>
+
 
 
 </details>
