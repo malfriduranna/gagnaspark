@@ -13,7 +13,7 @@ Munurinn á hæsta og lægsta gildi er 167 mörk.
 
 Flest mörk voru skoruð árið 2009 en þá voru þrír leikmenn með 20 mörk eða meira.
 
-Spáið í þessu!![Alt text](/images/IMG_1464.JPG "Optional title")
+Spáið í þetta!![Alt text](/images/IMG_1464.JPG "Optional title")
 
 
 <details>
