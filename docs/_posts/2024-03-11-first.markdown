@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Komið þið sæl!"
+date:   2024-03-11 11:15:30 +0100
+categories: jekyll update
+---
+
+Þessi síða er hugsuð sem vettvangur fyrir áhugaverða tölfræði sem tengist knattspyrnu. Sérstök áhersla verður lögð á knattspyrnu kvenna innan og utan Íslands. 
+
+Vettvangurinn verður drifinn áfram af áhuga á gögnum, tölfræði og knattspyrnu. 
+Þau sem telja sitt áhugasvið skarast á við einn eða fleiri af þessum þáttum munu hafa gaman af því að fylgjast með.
+
